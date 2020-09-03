@@ -1,0 +1,4 @@
+{
+  "presets": ["@chrissong/babel-preset-easy"],
+  "plugins": []
+}
